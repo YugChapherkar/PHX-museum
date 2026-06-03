@@ -1,0 +1,6 @@
+{
+  "name": "Natural History Museum",
+  "description": "An immersive digital experience showcasing the prehistoric wonders of the Natural History Museum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
